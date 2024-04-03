@@ -33,5 +33,3 @@ jobs:
 
       - name: Publish update
         run: eas update --auto
-
-        //
